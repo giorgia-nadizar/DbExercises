@@ -1,0 +1,7 @@
+STUDENTI(matricola,nome,cognome,cf)
+
+PROFESSORI(matricola,nome,cognome,cf,settore)
+
+CORSI(codice,nome,cfu,professore)
+
+ESAMI(corso,studente,data,voto,lode)
